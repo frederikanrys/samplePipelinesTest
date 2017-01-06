@@ -37,7 +37,7 @@ resources:
     type: cluster
     integration: AWS-Integration
     pointer:
-      sourceName : "pipelinetestcluster"
+      sourceName : "pipelinetest"
       region: "eu-central-1"
 
 #######1: EOF Create DV pipeline
